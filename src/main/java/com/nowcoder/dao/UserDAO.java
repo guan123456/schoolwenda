@@ -4,7 +4,7 @@ import com.nowcoder.model.User;
 import org.apache.ibatis.annotations.*;
 
 /**
- * Created by guan on 2018/7/10.
+ * Created by guan on 2021/1/14.
  */
 @Mapper
 public interface UserDAO {

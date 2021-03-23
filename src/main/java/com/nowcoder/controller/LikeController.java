@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by guan on 2018/7/10.
+ * Created by guan on 2021/1/16.
  */
 @Controller
 public class LikeController {

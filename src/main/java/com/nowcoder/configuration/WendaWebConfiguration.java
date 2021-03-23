@@ -8,7 +8,7 @@ import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
 /**
- * Created by guan on 2018/7/10.
+ * Created by guan on 2021/1/14.
  */
 @Component
 public class WendaWebConfiguration extends WebMvcConfigurerAdapter {

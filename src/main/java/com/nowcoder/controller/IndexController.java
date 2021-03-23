@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 import java.util.*;
 
 /**
- * Created by guan on 2018/7/10.
+ * Created by guan on 2021/1/13.
  */
 //@Controller
 public class IndexController {
@@ -109,6 +109,6 @@ public class IndexController {
     @ExceptionHandler()
     @ResponseBody
     public String error(Exception e) {
-        return "error:" + e.getMessage();
+        return "index:" + e.getMessage();
     }
 }
